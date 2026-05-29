@@ -271,11 +271,9 @@ This project is intended for academic and research purposes.
 
 # Authors
 
-**Abdullah Anis Edhi 22K-4392**
-**Muhammad Taha Khan 22K-4609**
-**Touseef Naveed 22K-4328**
+**Abdullah Anis Edhi 22K-4392**<br/>
+**Muhammad Taha Khan 22K-4609**<br/>
+**Touseef Naveed 22K-4328**<br/>
 
-GitHub:
-https://github.com/abdullahedhiii
 
 ---
