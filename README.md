@@ -267,17 +267,13 @@ Contributions, suggestions, and research collaborations are welcome.
 
 This project is intended for academic and research purposes.
 
-Add an appropriate open-source license if public reuse is intended.
-
 ---
 
-# Author
+# Authors
 
-**Abdullah Anis Edhi**
-
-* Quantum Computing & AI Research
-* Hybrid Quantum-Classical Systems
-* Deep Learning & Optimization Research
+**Abdullah Anis Edhi 22K-4392**
+**Muhammad Taha Khan 22K-4609**
+**Touseef Naveed 22K-4328**
 
 GitHub:
 https://github.com/abdullahedhiii
